@@ -7,12 +7,12 @@ import "firebase/compat/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCJd6thdBJsrCbr7AVY-EBJtnzqLgCjKvQ",
-  authDomain: "citasbanco-a8c9d.firebaseapp.com",
-  projectId: "citasbanco-a8c9d",
-  storageBucket: "citasbanco-a8c9d.appspot.com",
-  messagingSenderId: "438050096177",
-  appId: "1:438050096177:web:b9a9ffee712ff200a1c110"
+ apiKey: "AIzaSyBD7aXMUBopNNpyfKS7YfKaVPDBJwhi8gU",
+  authDomain: "escolar-a6959.firebaseapp.com",
+  projectId: "escolar-a6959",
+  storageBucket: "escolar-a6959.appspot.com",
+  messagingSenderId: "662191265839",
+  appId: "1:662191265839:web:91aae333171da83948ceda"
 };
 // Initialize Firebase
 let firebaseApp = firebase.initializeApp(firebaseConfig);
